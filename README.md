@@ -15,4 +15,32 @@ ___
 [Menaka BaskarPillai](https://livecoders.dev/lcc3#Menaka%20Baskerpillai) : [Architecting cloud native in Azure using .Net Core dotnet, Azure, .net, Microservices, Asp.Net](https://twitch.tv/videos/808273985?t=0h36m5s)
 
 ___
+[Rosalind Wills](https://livecoders.dev/lcc3#Rosalind%20Wills) : [title](https://twitch.tv/videos/808273985?t=1h2m0s)
 
+
+
+
+
+___
+[name](https://livecoders.dev/lcc3#forename%20surname) : [title](https://twitch.tv/videos/808273985?t=0h36m5s)
+
+___
+[name](https://livecoders.dev/lcc3#forename%20surname) : [title](https://twitch.tv/videos/808273985?t=0h36m5s)
+
+___
+[name](https://livecoders.dev/lcc3#forename%20surname) : [title](https://twitch.tv/videos/808273985?t=0h36m5s)
+
+___
+[name](https://livecoders.dev/lcc3#forename%20surname) : [title](https://twitch.tv/videos/808273985?t=0h36m5s)
+
+___
+[name](https://livecoders.dev/lcc3#forename%20surname) : [title](https://twitch.tv/videos/808273985?t=0h36m5s)
+
+___
+[name](https://livecoders.dev/lcc3#forename%20surname) : [title](https://twitch.tv/videos/808273985?t=0h36m5s)
+
+___
+[name](https://livecoders.dev/lcc3#forename%20surname) : [title](https://twitch.tv/videos/808273985?t=0h36m5s)
+
+___
+1 02 0
