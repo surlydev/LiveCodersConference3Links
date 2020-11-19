@@ -36,7 +36,7 @@ Watch: [Chatbots, NLP Platforms explained from layman's perspective]
 (https://twitch.tv/videos/808273985?t=2h38m0s)
 ___
 
-Presenter: [Alyssa Nicoll](https://livecoders.dev/lcc3#Alyssa%20Nicoll
+Presenter: [Alyssa Nicoll](https://livecoders.dev/lcc3#Alyssa%20Nicoll)
 
 Watch: Dark Patterns in UX
 (https://twitch.tv/videos/808273985?t=2h38m0s)
@@ -67,7 +67,7 @@ Watch: 7 habits of highly effective engineering teams
 
 ___
 
-Presenter: [Kim Adeline Miguel
+Presenter: [Kim Adeline Miguel](https://livecoders.dev/lcc3#Kim-Adeline%20Miguel)
 
 Watch: [Adventures in the Jamstack forest: Discovering redwood](https://twitch.tv/videos/808273985?t=4h43m30s)
 ___
