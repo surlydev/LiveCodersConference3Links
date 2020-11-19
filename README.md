@@ -26,7 +26,7 @@ Presenter: [Rosalind Wills](https://livecoders.dev/lcc3#Rosalind%20Wills)
 Watch: [title](https://twitch.tv/videos/808273985?t=1h2m0s)
 
 ___
-Shuchita Prasad(https://livecoders.dev/lcc3#
+Shuchita Prasad(https://livecoders.dev/lcc3#Shuchita%20Prasad)
 Chatbots, NLP Platforms explained from layman's perspective
 
 ___
