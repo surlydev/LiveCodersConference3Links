@@ -8,73 +8,78 @@ ___
 
 Jeff and Jeff
  
-Watch: [Introduction Live Coders Conference 3](https://twitch.tv/videos/808273985?t=0h0m0s)
+Watch: [Introduction to the Live Coders Conference 3](https://twitch.tv/videos/808273985?t=0h0m0s)
 
 ___
+
 Presenter: [Johanna Koester](https://livecoders.dev/lcc3#Johanna%20Koester) 
 
 Watch: [Empathy, compassion and growing your tech career](https://twitch.tv/videos/808273985?t=0h5m0s)
 
 ___
+
 Presenter: [Menaka BaskarPillai](https://livecoders.dev/lcc3#Menaka%20Baskerpillai) 
 
 Watch: [Architecting cloud native in Azure using .Net Core dotnet, Azure, .net, Microservices, Asp.Net](https://twitch.tv/videos/808273985?t=0h36m5s)
 
 ___
+
 Presenter: [Rosalind Wills](https://livecoders.dev/lcc3#Rosalind%20Wills) 
 
-Watch: [title](https://twitch.tv/videos/808273985?t=1h2m0s)
+Watch: [Git good: Getting comfortable with the Git command line](https://twitch.tv/videos/808273985?t=1h2m0s)
 
 ___
+
 Shuchita Prasad(https://livecoders.dev/lcc3#Shuchita%20Prasad)
-Chatbots, NLP Platforms explained from layman's perspective
 
-___
-Alyssa Nicoll(https://livecoders.dev/lcc3#
-Dark Patterns in UX
-
+Watch: [Chatbots, NLP Platforms explained from layman's perspective]
+(https://twitch.tv/videos/808273985?t=2h38m0s)
 ___
 
-Carey Payette(https://livecoders.dev/lcc3#
-2:38
+Alyssa Nicoll(https://livecoders.dev/lcc3#Alyssa%20Nicoll
 
-7th speaker - 3:07 - Dr Meltem Ballam(https://livecoders.dev/lcc3#
-Is AI Intelligent?
+Watch: Dark Patterns in UX
+(https://twitch.tv/videos/808273985?t=2h38m0s)
 
-3:30 - Panel discussion
-Powerhouse Women andhow to join them
+___
+
+Carey Payette(https://livecoders.dev/lcc3#Carey%20Payette)
+
+Watch: [From device to dashboard: The Voyage of IoT Data in Azure](https://twitch.tv/videos/808273985?t=2h38m0s)
+
+___
+
+Dr Meltem Ballam(https://livecoders.dev/lcc3#Dr.%20Meltem%20Ballan)
+
+Watch: [Is AI Intelligent?](https://twitch.tv/videos/808273985?t=3h07m0s)
+
+___
+
+Panel discussion with Rachael Olasunkanmi](https://livecoders.dev/lcc3#Rachael%20Olasunkanmi)
+
+Watch: [Powerhouse Women and how to join them](https://twitch.tv/videos/808273985?t=3h30m0s)
+
+___
 
 Presenter: [Adora Nwodo](https://livecoders.dev/lcc3#Adora%20Nwodo)
+
 Watch: 7 habits of highly effective engineering teams
 
-9th
-
-
-10th speaker - 4:43:30 - Kim Adeline Miguel
-Adventures in the Jamstack forest: Discovering redwood
 ___
-[name](https://livecoders.dev/lcc3#forename%20surname) : [title](https://twitch.tv/videos/808273985?t=0h36m5s)
 
-___
-[name](https://livecoders.dev/lcc3#forename%20surname) : [title](https://twitch.tv/videos/808273985?t=0h36m5s)
+Presenter: [Kim Adeline Miguel
 
+Watch: [Adventures in the Jamstack forest: Discovering redwood](https://twitch.tv/videos/808273985?t=4h43m30s)
 ___
-[name](https://livecoders.dev/lcc3#forename%20surname) : [title](https://twitch.tv/videos/808273985?t=0h36m5s)
+
+Presenter: [May Cheung](https://livecoders.dev/lcc3#May%20Cheung)
+
+Watch: [Getting comfortable with being uncomfortable: How I realised where my passions lie and found my place in tech](https://twitch.tv/videos/808273985?t=0h36m5s)
 
 ___
-[name](https://livecoders.dev/lcc3#forename%20surname) : [title](https://twitch.tv/videos/808273985?t=0h36m5s)
+
+Jeff and Jeff wrap up the conferencei
+
+Watch: [wrap up](https://twitch.tv/videos/808273985?t=5h35m0s)
 
 ___
-[name](https://livecoders.dev/lcc3#forename%20surname) : [title](https://twitch.tv/videos/808273985?t=0h36m5s)
-
-___
-[name](https://livecoders.dev/lcc3#forename%20surname) : [title](https://twitch.tv/videos/808273985?t=0h36m5s)
-
-___
-[name](https://livecoders.dev/lcc3#forename%20surname) : [title](https://twitch.tv/videos/808273985?t=0h36m5s)
-
-___
-1 02 0
-
-
-5 35 00 Wrap up
