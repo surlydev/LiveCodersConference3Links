@@ -30,34 +30,34 @@ Watch: [Git good: Getting comfortable with the Git command line](https://twitch.
 
 ___
 
-Shuchita Prasad(https://livecoders.dev/lcc3#Shuchita%20Prasad)
+Presenter: [Shuchita Prasad](https://livecoders.dev/lcc3#Shuchita%20Prasad)
 
 Watch: [Chatbots, NLP Platforms explained from layman's perspective]
 (https://twitch.tv/videos/808273985?t=2h38m0s)
 ___
 
-Alyssa Nicoll(https://livecoders.dev/lcc3#Alyssa%20Nicoll
+Presenter: [Alyssa Nicoll](https://livecoders.dev/lcc3#Alyssa%20Nicoll
 
 Watch: Dark Patterns in UX
 (https://twitch.tv/videos/808273985?t=2h38m0s)
 
 ___
 
-Carey Payette(https://livecoders.dev/lcc3#Carey%20Payette)
+Presenter: [Carey Payette](https://livecoders.dev/lcc3#Carey%20Payette)
 
 Watch: [From device to dashboard: The Voyage of IoT Data in Azure](https://twitch.tv/videos/808273985?t=2h38m0s)
 
 ___
 
-Dr Meltem Ballam(https://livecoders.dev/lcc3#Dr.%20Meltem%20Ballan)
+Presenter: [Dr Meltem Ballam](https://livecoders.dev/lcc3#Dr.%20Meltem%20Ballan)
 
 Watch: [Is AI Intelligent?](https://twitch.tv/videos/808273985?t=3h07m0s)
 
 ___
 
-Panel discussion with Rachael Olasunkanmi](https://livecoders.dev/lcc3#Rachael%20Olasunkanmi)
+Presenter: [Rachael Olasunkanmi](https://livecoders.dev/lcc3#Rachael%20Olasunkanmi)
 
-Watch: [Powerhouse Women and how to join them](https://twitch.tv/videos/808273985?t=3h30m0s)
+Watch: [Panel Discussion: Powerhouse Women and how to join them](https://twitch.tv/videos/808273985?t=3h30m0s)
 
 ___
 
@@ -78,7 +78,7 @@ Watch: [Getting comfortable with being uncomfortable: How I realised where my pa
 
 ___
 
-Jeff and Jeff wrap up the conferencei
+Jeff and Jeff wrap up the conference
 
 Watch: [wrap up](https://twitch.tv/videos/808273985?t=5h35m0s)
 
