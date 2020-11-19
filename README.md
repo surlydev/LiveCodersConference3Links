@@ -6,19 +6,23 @@ Many thanks to all the Mods and technical team as well as the MC's and presenter
 
 ___
 
-Jeff and Jeff 
+Jeff and Jeff
+ 
 Watch: [Introduction Live Coders Conference 3](https://twitch.tv/videos/808273985?t=0h0m0s)
 
 ___
 Presenter: [Johanna Koester](https://livecoders.dev/lcc3#Johanna%20Koester) 
+
 Watch: [Empathy, compassion and growing your tech career](https://twitch.tv/videos/808273985?t=0h5m0s)
 
 ___
 Presenter: [Menaka BaskarPillai](https://livecoders.dev/lcc3#Menaka%20Baskerpillai) 
+
 Watch: [Architecting cloud native in Azure using .Net Core dotnet, Azure, .net, Microservices, Asp.Net](https://twitch.tv/videos/808273985?t=0h36m5s)
 
 ___
 Presenter: [Rosalind Wills](https://livecoders.dev/lcc3#Rosalind%20Wills) 
+
 Watch: [title](https://twitch.tv/videos/808273985?t=1h2m0s)
 
 ___
@@ -31,8 +35,8 @@ Dark Patterns in UX
 
 ___
 
-6th speaker - 2:38 - Carey Payette(https://livecoders.dev/lcc3#
-
+Carey Payette(https://livecoders.dev/lcc3#
+2:38
 
 7th speaker - 3:07 - Dr Meltem Ballam(https://livecoders.dev/lcc3#
 Is AI Intelligent?
@@ -71,3 +75,6 @@ ___
 
 ___
 1 02 0
+
+
+5 35 00 Wrap up
